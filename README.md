@@ -1,0 +1,1 @@
+I aim to transition from theoretical knowledge to hands-on application by creating an Azure Free Tier account, granting me access to a suite of cloud-native services including compute, storage, and networking. The goal is to familiarize myself with the onboarding processes, resource management interfaces, and security frameworks.
